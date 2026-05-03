@@ -1,2 +1,5 @@
 # Ignore the temporary download folder
 raw/
+
+# Ignore large generated prediction files
+ProcessedData/predictions_merged.csv
